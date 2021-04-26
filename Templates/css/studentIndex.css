@@ -1,0 +1,38 @@
+.list-text {
+    text-align: left;
+    max-width: 20%;
+    margin: 0;
+    overflow: hidden;
+}
+
+h3 {
+    margin-left: 0;
+    text-decoration: none;
+}
+
+#tf-name {
+    margin-top: 40px;
+}
+
+#resource {
+    color: #D1D1D1;
+}
+
+.person-name {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    /* display: block; */
+    margin-top: 40px;
+    /* margin-left: 40px; */
+}
+
+ul {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 1.1em;
+}
+
+li {
+    list-style-type: none;
+    margin-top: 15px;
+}

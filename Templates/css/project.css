@@ -1,0 +1,19 @@
+.body-container {
+    margin-bottom: 100px;
+}
+
+.project-intro {
+    text-align: center;
+}
+
+.canvas {
+    display: block;
+    width: 900px;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* #canvas {
+    background-color: black;
+} */
